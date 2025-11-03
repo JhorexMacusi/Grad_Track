@@ -119,7 +119,7 @@ for col in ["overall_gwa", "units_passed", "on_time_prob", "delayed_prob"]:
 # SIDEBAR
 # -------------------------------------------
 st.sidebar.title("GradTrack")
-st.sidebar.caption("Strategic Student Analytics")
+st.sidebar.caption("Student Analytics")
 st.sidebar.success("Live Data Connected")
 
 st.sidebar.divider()
@@ -139,7 +139,7 @@ filtered_df = df[
 # -------------------------------------------
 # DASHBOARD TITLE
 # -------------------------------------------
-st.markdown("<h2 style='text-align:center;'>GradTrack Strategic Dashboard</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align:center;'>GradTrack Dashboard</h2>", unsafe_allow_html=True)
 st.markdown("---")
 
 # -------------------------------------------
@@ -164,7 +164,7 @@ with col2:
     st.markdown(f"""
         <div class="metric-card">
             <h3>{on_time_rate:.1f}%</h3>
-            <p>On-Time Graduation Rate</p>
+            <p>On-Time Rate</p>
         </div>
     """, unsafe_allow_html=True)
 
