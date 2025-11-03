@@ -120,7 +120,6 @@ for col in ["overall_gwa", "units_passed", "on_time_prob", "delayed_prob"]:
 # -------------------------------------------
 st.sidebar.title("GradTrack")
 st.sidebar.caption("Student Analytics")
-st.sidebar.success("Live Data Connected")
 
 st.sidebar.divider()
 st.sidebar.subheader("Display Filters")
