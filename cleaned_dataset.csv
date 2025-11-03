@@ -1,0 +1,212 @@
+Student_ID,Year_Level,Units_Passed,Failed_Prerequisite,Failed_CommonCourses,Overall_GWA,Graduation_Outcome
+E21-00123,First Year,48,0,0,2.75,On Time
+E21-00145,First Year,48,0,0,2.85,On Time
+E21-00167,First Year,45,1,0,2.66,Delayed
+E21-00157,First Year,42,0,0,1.76,Delayed
+E21-00137,First Year,30,0,0,1.56,Delayed
+E21-00377,First Year,6,0,0,1.47,Delayed
+E21-03357,First Year,9,0,0,1.48,Delayed
+E21-02337,First Year,12,0,0,2.05,Delayed
+E21-08357,First Year,15,0,0,1.5,Delayed
+E21-00357,First Year,3,0,0,1.5,Delayed
+E21-00397,First Year,6,0,0,2.0,Delayed
+E21-03557,First Year,20,0,0,1.85,Delayed
+E21-06797,First Year,20,0,0,1.05,Delayed
+E21-08957,First Year,20,0,0,2.98,Delayed
+E21-00857,First Year,15,0,0,1.89,Delayed
+E21-00131,First Year,26,0,0,1.46,Delayed
+E21-03798,First Year,46,0,0,1.46,Delayed
+E21-02387,First Year,46,0,0,1.38,Delayed
+E21-00131,First Year,46,0,0,1.87,Delayed
+E22-00131,First Year,46,0,0,1.67,Delayed
+E21-02731,First Year,43,0,0,2.06,Delayed
+E21-03281,First Year,43,0,0,1.46,Delayed
+E21-00131,First Year,40,0,0,1.28,Delayed
+E21-00131,First Year,40,0,0,2.78,Delayed
+E21-00131,First Year,37,0,0,1.23,Delayed
+E21-00210,First Year,48,0,0,2.65,On Time
+E21-00234,First Year,45,0,1,2.9,Delayed
+E21-00256,First Year,42,2,0,2.78,Delayed
+E21-00278,First Year,48,0,0,2.55,On Time
+E21-00301,First Year,42,0,2,2.77,Delayed
+E21-00323,First Year,48,0,0,2.8,On Time
+E21-00345,First Year,49,0,3,2.48,Delayed
+E21-00367,First Year,41,0,4,2.56,Delayed
+E21-00389,First Year,48,0,0,2.7,On Time
+E21-00412,First Year,48,0,0,2.6,On Time
+E21-00434,First Year,45,0,1,2.95,Delayed
+E21-00456,First Year,42,2,0,2.94,Delayed
+E21-00478,First Year,48,0,0,2.5,On Time
+E21-00501,First Year,42,1,1,2.76,Delayed
+E21-00523,First Year,48,0,0,2.75,On Time
+E21-00545,First Year,42,0,2,2.81,Delayed
+E21-00567,First Year,45,1,0,2.94,Delayed
+E21-00589,First Year,48,0,0,1.45,On Time
+E21-00112,First Year,48,0,0,1.8,On Time
+E21-00134,First Year,45,0,1,2.9,Delayed
+E21-00156,First Year,42,2,0,2.35,Delayed
+E21-00178,First Year,48,0,0,2.55,On Time
+E24-00293,First Year,52,0,0,2.33,On Time
+E21-00201,First Year,42,0,2,2.1,Delayed
+E21-00223,First Year,48,0,0,1.7,On Time
+E21-00245,First Year,42,0,2,2.15,Delayed
+E22-00189,First Year,49,0,1,2.95,Delayed
+E22-00139,First Year,49,0,1,2.35,Delayed
+E22-00131,First Year,46,0,0,1.47,Delayed
+E22-03487,First Year,46,0,0,2.07,Delayed
+E22-03431,First Year,43,0,0,1.89,Delayed
+E22-02821,First Year,43,0,0,1.27,Delayed
+E22-09891,First Year,43,0,0,1.87,Delayed
+E22-02231,First Year,43,0,0,2.07,Delayed
+E22-02341,First Year,46,0,0,1.9,Delayed
+E22-03298,First Year,46,0,0,1.37,Delayed
+E22-02981,First Year,46,0,0,1.29,Delayed
+E22-02891,First Year,46,0,0,1.28,Delayed
+E22-02121,First Year,46,0,0,1.37,Delayed
+E22-00156,First Year,49,0,1,2.95,Delayed
+E22-03189,First Year,46,0,2,2.15,Delayed
+E22-03159,First Year,46,0,2,2.9,Delayed
+E22-00210,First Year,52,0,0,2.6,On Time
+E22-00232,First Year,49,1,0,2.9,Delayed
+E22-02237,First Year,52,0,0,1.34,On Time
+E22-00276,First Year,49,0,1,2.0,Delayed
+E22-02488,First Year,52,0,0,1.25,On Time
+E22-00298,First Year,52,0,0,2.65,On Time
+E22-00320,First Year,49,1,0,2.8,Delayed
+E22-00342,First Year,52,0,0,2.7,On Time
+E22-00364,First Year,49,0,1,2.05,Delayed
+E22-01124,First Year,52,0,0,1.31,On Time
+E22-00314,First Year,18,0,0,2.05,Delayed
+E22-03324,First Year,52,0,0,1.1,On Time
+E22-01364,First Year,40,0,0,1.85,Delayed
+E22-80364,First Year,18,0,0,1.65,Delayed
+E22-00387,First Year,52,0,0,2.29,On Time
+E22-00408,First Year,46,0,2,2.25,Delayed
+E22-04254,First Year,52,0,0,1.38,On Time
+E22-00430,First Year,49,1,0,2.65,Delayed
+E22-00452,First Year,52,0,0,1.55,On Time
+E22-00474,First Year,49,0,1,2.0,Delayed
+E22-09954,First Year,52,0,0,1.34,On Time
+E22-00496,First Year,44,2,1,2.6,Delayed
+E22-00518,First Year,52,0,0,2.9,On Time
+E22-00540,First Year,47,0,2,2.3,Delayed
+E22-07764,First Year,52,0,0,1.32,On Time
+E22-00562,First Year,49,1,0,2.45,Delayed
+E22-00584,First Year,52,0,0,2.65,On Time
+E22-00111,First Year,40,4,0,2.7,Delayed
+E22-00133,First Year,52,0,0,2.85,On Time
+E22-00155,First Year,47,1,1,2.1,Delayed
+E22-05684,First Year,52,0,0,1.35,On Time
+E22-00156,First Year,20,5,1,2.87,Delayed
+E22-05664,First Year,52,0,0,1.88,On Time
+E22-04554,First Year,52,0,0,1.75,On Time
+E22-02154,First Year,52,0,0,1.39,On Time
+E22-00177,Second Year,101,0,0,1.6,On Time
+E22-02849,Second Year,101,0,0,1.6,On Time
+E22-02357,Second Year,101,0,0,2.0,On Time
+E22-03119,Second Year,95,0,0,1.8,Delayed
+E22-03287,Second Year,101,0,0,3.0,On Time
+E22-09888,Second Year,101,0,0,2.69,On Time
+E22-09922,Second Year,101,0,0,2.55,On Time
+E22-02277,Second Year,101,0,0,1.99,On Time
+E22-01983,Second Year,92,0,0,1.3,Delayed
+E22-01287,Second Year,101,0,0,1.2,On Time
+E22-03459,Second Year,92,0,0,1.48,Delayed
+E22-01197,Second Year,101,0,0,1.89,On Time
+E22-09187,Second Year,101,0,0,2.67,On Time
+E22-08866,Second Year,101,0,0,2.44,On Time
+E22-28859,Second Year,95,0,0,2.36,Delayed
+E22-09329,Second Year,95,0,0,2.18,Delayed
+E22-02289,Second Year,95,0,0,2.0,Delayed
+E22-0399,Second Year,92,0,0,1.28,Delayed
+E22-38744,Second Year,92,0,0,2.98,Delayed
+E22-04467,Second Year,101,0,0,2.87,On Time
+E22-09249,Second Year,96,0,0,2.28,Delayed
+E22-03457,Second Year,101,0,0,1.07,On Time
+E22-02379,Second Year,95,0,0,2.28,Delayed
+E22-03299,Second Year,95,0,0,1.28,Delayed
+E22-09435,Second Year,101,0,0,2.0,On Time
+E22-09833,Second Year,95,0,0,1.81,Delayed
+E22-00221,Second Year,101,0,0,1.75,On Time
+E22-00243,Second Year,99,0,1,2.5,Delayed
+E22-00265,Second Year,95,2,0,2.1,Delayed
+E22-00287,Second Year,101,0,0,2.8,On Time
+E22-00309,Second Year,95,2,0,2.6,Delayed
+E22-00809,Second Year,40,2,0,2.6,Delayed
+E22-00331,Second Year,98,1,0,2.3,Delayed
+E22-00353,Second Year,101,0,0,1.0,On Time
+E22-00375,Second Year,99,0,1,2.8,Delayed
+E22-00335,Second Year,96,0,2,2.2,Delayed
+E22-00325,Second Year,93,0,3,2.64,Delayed
+E22-00375,Second Year,93,0,4,2.9,Delayed
+E22-00397,Second Year,95,2,0,2.9,Delayed
+E22-00419,Second Year,101,0,0,1.65,On Time
+E22-00441,Second Year,89,4,0,2.25,Delayed
+E22-00463,Second Year,98,1,0,2.35,Delayed
+E22-00485,Second Year,101,0,0,1.56,On Time
+E22-00507,Second Year,95,2,0,2.7,Delayed
+E22-00551,Second Year,101,0,0,2.35,On Time
+E22-00573,Second Year,92,3,0,2.9,Delayed
+E22-00595,Second Year,98,1,0,2.4,Delayed
+E22-00309,Second Year,30,0,0,2.0,Delayed
+E22-00112,Second Year,101,0,0,2.25,On Time
+E22-00114,Second Year,101,0,0,2.15,On Time
+E22-00116,Second Year,101,0,0,2.66,On Time
+E22-00134,Second Year,95,2,0,2.8,Delayed
+E22-00156,Second Year,98,1,0,2.15,Delayed
+E22-00309,Second Year,48,0,0,1.6,Delayed
+E22-00178,Second Year,101,0,0,2.2,On Time
+E22-00200,Second Year,99,0,1,2.85,Delayed
+E22-00222,Second Year,95,2,0,2.0,Delayed
+E22-00244,Third Year,155,0,0,2.3,On Time
+E22-00266,Third Year,122,1,4,2.8,Delayed
+E22-00288,Third Year,155,0,0,2.4,On Time
+E22-00332,Third Year,152,1,0,2.89,Delayed
+E22-00354,Third Year,155,0,0,2.67,On Time
+E22-00376,Third Year,150,1,1,2.9,Delayed
+E22-00398,Third Year,155,0,0,2.3,On Time
+E22-00308,Third Year,55,0,0,2.0,Delayed
+E22-02884,Third Year,58,0,0,1.9,Delayed
+E22-02494,Third Year,58,0,0,1.8,Delayed
+E22-00420,Third Year,145,3,0,2.08,Delayed
+E22-00442,Third Year,152,1,0,2.3,Delayed
+E22-00464,Third Year,155,0,0,2.45,On Time
+E22-00486,Third Year,148,2,0,2.8,Delayed
+E22-00508,Third Year,152,1,0,2.25,Delayed
+E22-00530,Third Year,155,0,0,2.55,On Time
+E22-00552,Third Year,146,2,1,2.31,Delayed
+E22-00574,Third Year,152,1,0,2.9,Delayed
+E22-00596,Third Year,155,0,0,2.6,On Time
+E22-00113,Third Year,140,4,0,2.5,Delayed
+E22-00135,Third Year,155,0,0,1.7,On Time
+E22-00157,Third Year,148,2,0,2.9,Delayed
+E22-00179,Third Year,155,0,0,2.35,On Time
+E22-00201,Third Year,149,1,1,2.95,Delayed
+E22-00221,Third Year,143,1,3,2.15,Delayed
+E22-00291,Third Year,140,1,4,2.98,Delayed
+E22-02294,Third Year,56,0,0,1.2,Delayed
+E22-00262,Third Year,52,4,1,2.93,Delayed
+E21-00627,Third Year,143,1,5,2.51,Delayed
+E21-00877,Third Year,152,0,0,1.83,On Time
+E24-00826,Third Year,152,0,0,1.9,On Time
+E22-00321,Fourth Year,158,0,0,2.1,On Time
+E22-00334,Fourth Year,158,0,0,2.8,On Time
+E22-00351,Fourth Year,176,0,0,2.2,On Time
+E22-00211,Fourth Year,176,0,0,1.44,On Time
+E22-00101,Fourth Year,176,0,0,1.81,On Time
+E22-04021,Fourth Year,176,0,0,1.56,On Time
+E22-03681,Fourth Year,173,0,1,2.56,Delayed
+E22-03691,Fourth Year,173,0,1,2.66,Delayed
+E22-03381,Fourth Year,173,0,1,1.76,Delayed
+E22-04021,Fourth Year,173,0,1,2.41,Delayed
+E22-00975,Fourth Year,183,0,0,1.78,On Time
+E21-00249,Fourth Year,180,2,0,2.38,Delayed
+E22-01044,Fourth Year,180,1,0,2.49,Delayed
+E21-00273,Fourth Year,180,1,0,1.87,Delayed
+E21-00234,Fourth Year,180,1,0,1.57,Delayed
+E22-00575,Fourth Year,183,0,0,2.78,On Time
+E22-03465,Fourth Year,183,0,0,1.78,On Time
+E22-02585,Fourth Year,183,0,0,1.44,On Time
+E22-02817,Fourth Year,183,0,0,2.34,On Time
+E22-09917,Fourth Year,183,0,0,2.87,On Time
+E22-00975,Fourth Year,180,1,0,2.98,Delayed
